@@ -1,3 +1,3 @@
 x=3
 y=4
-sum=x+y
+sum=abs(x-y)
